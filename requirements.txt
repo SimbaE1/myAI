@@ -1,0 +1,7 @@
+transformers
+argparse
+typing
+torch
+datasets
+better_profanity
+tqdm
