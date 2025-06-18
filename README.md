@@ -21,7 +21,7 @@ It’s not the best or the fastest AI, nor the cheapest—but I made it, and tha
 
 ## Features
 1. **Bad Word Detector**  
-   Filters out profanities so the AI will never utter a bad word (as long as your profanity list is up to date).  
+   Filters out profanities so the AI will never utter a bad word (as long as my profanity library is up to date).  
 2. **Easy-Use CLI**  
    Train and generate text with simple commands—no complicated setup.  
 3. **Multiple Dataset Support**  
