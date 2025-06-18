@@ -17,7 +17,7 @@ It’s not the best or the fastest AI, nor the cheapest—but I made it, and tha
 - [License](#license)  
 
 ## Overview
-**myAI** is a character-level GPT trainer and text generator implemented in Python with PyTorch and Hugging Face Transformers. It’s designed to be easy to run, experiment with, and extend.
+**myAI** is a token-level GPT trainer and text generator implemented in Python with PyTorch and Hugging Face Transformers. It’s designed to be easy to run, experiment with, and extend.
 
 ## Features
 1. **Bad Word Detector**  
