@@ -1,7 +1,7 @@
 # -----------------------------------------------
 # Configuration (set these before running in Colab)
 MODE = "train"       # "train" or "complete"
-DATASET = "/content/bookcorpus"  # "tiny-shakespeare", "wikitext-103", "bookcorpus", or path to local .txt
+DATASET = "/"  # "tiny-shakespeare", "wikitext-103", "bookcorpus", or path to local .txt
 EPOCHS = "inf"            # Number of epochs (int) or "inf"
 PROMPT = "Once upon a time, "           # Prompt text to complete in "complete" mode
 CPU_PERCENT = 100     # Percent of CPU threads to use
