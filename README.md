@@ -93,7 +93,7 @@ Contributions welcome!
 
 Please follow the existing code style and include tests or examples where appropriate.
 
-##Colab AI
+## Colab AI
 This runs in colab. Your model should be in the file system, in which it will appear in /content/[NAME]
 Passes the restrictions of colab, so you can run it on their GPU/TPU
 
